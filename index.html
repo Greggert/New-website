@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head>
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>StraffordTech | Terminal</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="img/fav-icon4.png">
+  </head>
+  <body>
+    <div id="terminal">
+        <pre>
+           _nnnn_                  
+          dGGGGMMb            
+         @p~qp~~qMb           
+         M|@||@) M|            
+         @,----.JM|      ____    __                      ___    ___                __      ______               __
+        JS^\__/  qKL    /\  _`\ /\ \__                 /'___\ /'___\              /\ \    /\__  _\             /\ \      
+       dZP        qKRb  \ \,\L\_\ \ ,_\  _ __    __   /\ \__//\ \__/  ___   _ __  \_\ \   \/_/\ \/    __    ___\ \ \___ 
+      dZP          qKKb  \/_\__ \\ \ \/ /\`'__\/'__`\ \ \ ,__\ \ ,__\/ __`\/\`'__\/'_` \     \ \ \  /'__`\ /'___\ \  _ `\ 
+     fZP            SMMb   /\ \L\ \ \ \_\ \ \//\ \L\.\_\ \ \_/\ \ \_/\ \L\ \ \ \//\ \L\ \     \ \ \/\  __//\ \__/\ \ \ \ \   
+     HZM            MMMM   \ `\____\ \__\\ \_\\ \__/.\_\\ \_\  \ \_\\ \____/\ \_\\ \___,_\     \ \_\ \____\ \____\\ \_\ \_\  
+     FqM            MMMM    \/_____/\/__/ \/_/ \/__/\/_/ \/_/   \/_/ \/___/  \/_/ \/__,_ /      \/_/\/____/\/____/ \/_/\/_/ 
+   __| ".        |\dS"qML   
+   |    `.       | `' \Zq                       IT|CyberSecurity Professional        
+  _)      \.___.,|     .'                               Web Developer
+  \____   )MMMMMP|   .'
+       `-'       `--'                 
+                                                                                     
+      </pre>
+        <span class="color2">Welcome to my StraffordTech web terminal.</span></p><p class=""><span class="color2">For a list of available commands, type</span> <span class="command">'help'</span><span class="color2">.</span></p><a id="before"></a>
+    </div>
+    <div id="command" onclick="$('texter').focus();">
+      <textarea type="text" id="texter" onkeyup="typeIt(this, event)" onkeydown="typeIt(this, event); 
+                   moveIt(this.value.length, event)" onkeypress="typeIt(this, event);" autofocus=""></textarea>
+      <div id="liner">
+        <span id="typer"></span><b class="cursor" id="cursor" style="left: 0px;">█</b>
+      </div>
+    </div>
+    <script src="js/caret.js"></script>
+    <script src="js/commands.js"></script>
+    <script src="js/main.js"></script>
+  
+
+</body></html>
