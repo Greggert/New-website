@@ -3,7 +3,7 @@ var twitter = "https://twitter.com/Strafford1Tech";
 var linkedin = "https://www.linkedin.com/in/adolphus-strafford-iii-86a0b725a/";
 var github = "https://github.com/Greggert";
 var parchment = "https://www.parchment.com/u/award/889637995cf18982bbc35d271e8124d3";
-var resume = "https://drive.google.com/uc?export=download&id=1QV0P2uuk1GAS2rgEpMg1yaMr2qa8c-My";
+var resume = "https://drive.google.com/uc?export=download&id=1cNN_hZPIluBejuhyTox0VIiPfMkRSFXI";
 var email = 'mailto:astrafford52@gmail.com';
 
 whois = [
