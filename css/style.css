@@ -130,9 +130,9 @@ a:focus {
   outline: 0;
 }
 
-@media only screen and (max-width: 600px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 10px;
+    min-width: auto;
   }
 }
