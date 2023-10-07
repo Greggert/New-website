@@ -247,6 +247,7 @@ projects = [
   "Password Hash Decryption Tool ",
   "●	Developed a Python script to uncover original passwords from their hashed versions by matching them with a ",
   "precomputed password dictionary.",
+  "<br>"
 
 ];
 
