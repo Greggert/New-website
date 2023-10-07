@@ -243,11 +243,11 @@ projects = [
   "Network-Wide Ad Blocking with Pi-hole ",
   "●	Deployed a streamlined network-wide ad-blocking solution with Pi-hole on a Raspberry Pi server, reinforcing ",
   "online privacy and minimizing intrusive ads, and conducted system maintenance through PuTTY SSH. ",
-  "<br>"
+  "<br>",
   "Password Hash Decryption Tool ",
   "●	Developed a Python script to uncover original passwords from their hashed versions by matching them with a ",
   "precomputed password dictionary.",
-  "<br>"
+  "<br>",
 
 ];
 
