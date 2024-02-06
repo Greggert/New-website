@@ -150,19 +150,21 @@ work = [
                            
  "<br>",
  
-"Grant Access Secure Services	Lakeland, FL",
-  "IT Technician	01/2022 – Present",
-   "o	Teamed up with a small business owner to create and set up multiple work computers." ,
-   "o	Evaluated security risks, offered streamlined usage and maintenance suggestions for the organization.",
-   "o	Administered system’s Programs/Software Installation.",
+"StraffordTech(Self)	Lakeland, FL",
+  "Technical Support Specialist	 01/2022 – Present",
+   "o	Partnered with Grant Access Secure Services." ,
+   "o	Efficiently provides technical event support by prioritizing and resolving technical issues.",
+   "o	Troubleshoot and resolve problems, develop resources, support with technical issues, and lead customers to solutions",
+   "o	Resolve tech issues, facilitate communication, administer tools, provide remote support, and maintain systems and on-site ops.",
    "<br>",
    "<br>",
-"Mr. B’s Grooming Lounge	Orlando, FL",
-  "Information Security Engineer/ IT Technician	06/2017 – Present",
+"StraffordTech(Self)	Orlando, FL",
+  "Information Security Engineer   06/2017 – Present",
+   "o	Partnered with Mr. B’s Grooming Lounge",
    "o	Implement security measures to protect sensitive customer and payment data.",
-   "o	Encrypt data with AES, set up firewalls for network protection.",
-   "o	Downloaded and installed the Square POS app on all the devices designated for payment processing.",
+   "o	Encrypt data with AES, set up firewalls for network protection..",
    "o	To expedite the input of client and payment details, I integrated MySQL with their Square POS system.",
+   "o	Evaluate security controls, investigate breaches, and personally conduct vulnerability assessments",
 
   "<br>"
 ];
