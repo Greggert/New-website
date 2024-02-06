@@ -234,11 +234,11 @@ projects = [
 "<br>",
 
 
-  "Monitor and Detection Lab",
+  "Cybersecurity Monitor and Detection Lab",
   "●	Designed an Active Directory environment alongside Kali Linux, Security Onion, Splunk and pfSense to simulate ",
   "a small enterprise network practicing incident response.",
   "<br>",
-  "Creating a website for personal portfolio using html and custom CSS https://StraffordTech.com",
+  "Portfolio Website https://StraffordTech.com",
   "●	Developed and designed a personal website showcasing my portfolio, skills, and professional achievements to ",
   "effectively highlight my personal brand and expertise.",
   "<br>",
